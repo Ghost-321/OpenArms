@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 430" role="img" aria-labelledby="title desc">
+  <title id="title">Health information panels</title>
+  <desc id="desc">Three coloured panels representing support, infographic information, and assistance.</desc>
+  <rect width="680" height="430" rx="24" fill="#f5f7f8"/>
+  <rect x="52" y="72" width="168" height="286" rx="16" fill="#2d5f73"/>
+  <rect x="256" y="72" width="168" height="286" rx="16" fill="#b96780"/>
+  <rect x="460" y="72" width="168" height="286" rx="16" fill="#f2c14e"/>
+  <circle cx="136" cy="148" r="38" fill="#ffffff"/>
+  <rect x="92" y="220" width="88" height="12" rx="6" fill="#ffffff"/>
+  <rect x="84" y="252" width="104" height="10" rx="5" fill="#d9eef3"/>
+  <circle cx="340" cy="152" r="42" fill="#ffffff"/>
+  <path d="M310 232h60M300 270h80M318 308h44" stroke="#ffffff" stroke-width="12" stroke-linecap="round"/>
+  <rect x="504" y="122" width="80" height="64" rx="12" fill="#ffffff"/>
+  <rect x="500" y="224" width="88" height="14" rx="7" fill="#3f3547"/>
+  <rect x="500" y="260" width="76" height="12" rx="6" fill="#3f3547"/>
+</svg>
